@@ -1,3 +1,7 @@
+# Title of the page
+
+## Subtitle of the page
+
 ---
 title: Welcome to my blog
 
